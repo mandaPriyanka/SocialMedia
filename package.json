@@ -1,0 +1,21 @@
+{
+  "name": "upi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1106.0",
+    "bcrypt": "^3.0.6",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-validator": "^5.3.1",
+    "formidable": "^1.2.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.8.3"
+  }
+}
